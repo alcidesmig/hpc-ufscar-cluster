@@ -28,7 +28,7 @@ set -eE
 umask 077
 
 # Define o arquivo a ser copiado como o mais recente na pasta especificada
-sing=$(rclone lsf --max-depth 0 "${service}:${remote_sing}/" --files-only --format "tp" | grep simg | grep example | sort | tail -1)
+sing=$(rclone lsf --max-depth 0 "${service}:${remote_sing}/" --files-only --format "tp" | grep simg | sort | tail -1)
 sing=${sing:20}
 
 echo "Copiando container..."
