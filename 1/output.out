@@ -1,0 +1,15 @@
+Running...
+sequential 1t - pi with 1000000000 steps is 3.141592654 in 12.383303 seconds
+thread 1t - pi with 1000000000 steps is 3.141592654 in 12.373101 seconds
+thread 2t - pi with 1000000000 steps is 3.141592654 in 6.410658 seconds
+thread 5t - pi with 1000000000 steps is 3.141592654 in 6.409994 seconds
+thread 10t - pi with 1000000000 steps is 3.141592654 in 6.415346 seconds
+thread 20t - pi with 1000000000 steps is 3.141592654 in 6.378543 seconds
+thread 40t - pi with 1000000000 steps is 3.141592654 in 6.405300 seconds
+omp 1t - pi with 1000000000 steps is 3.141592654 in 12.352429 seconds in 1 procs
+omp 2t - pi with 1000000000 steps is 3.141592654 in 6.352978 seconds in 2 procs
+omp 5t - pi with 1000000000 steps is 3.141592654 in 6.364886 seconds in 5 procs
+omp 10t - pi with 1000000000 steps is 3.141592654 in 6.361581 seconds in 10 procs
+omp 20t - pi with 1000000000 steps is 3.141592654 in 6.403981 seconds in 20 procs
+omp 40t - pi with 1000000000 steps is 3.141592654 in 6.408283 seconds in 40 procs
+GC...
