@@ -1,0 +1,12 @@
+thread 1t - 
+Kernel executed in 86.743831 seconds with 3001 iterations 
+thread 2t - 
+Kernel executed in 51.414018 seconds with 3001 iterations 
+thread 5t - 
+Kernel executed in 45.461477 seconds with 3001 iterations 
+thread 10t - 
+Kernel executed in 41.385689 seconds with 3001 iterations 
+thread 20t - 
+Kernel executed in 40.031666 seconds with 3001 iterations 
+thread 40t - 
+Kernel executed in 39.953772 seconds with 3001 iterations 
