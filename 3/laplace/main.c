@@ -1,3 +1,4 @@
+// Original source code https://github.com/HPCSys-Lab/HPC-101/tree/main/examples/laplace
 /*
     This program solves Laplace's equation on a regular 2D grid using simple Jacobi iteration.
     The stencil calculation stops when  iter > ITER_MAX
