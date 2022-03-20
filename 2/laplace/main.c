@@ -221,4 +221,8 @@ int main(int argc, char *argv[])
     printf("\nKernel executed in %lf seconds with %d iterations \n", exec_time, iter);
 
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 27a6ab54b9bb055d2c49e7d2b4685244e17a84a9
