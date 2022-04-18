@@ -1,0 +1,26 @@
+CUDA version:   v11060
+CUDA Devices: 
+
+0: NVIDIA GeForce RTX 2060 SUPER: 7.5
+  Global memory:   7974mb
+  Shared memory:   48kb
+  Constant memory: 64kb
+  Block registers: 65536
+
+  Warp size:         32
+  Threads per block: 1024
+  Max block dimensions: [ 1024, 1024, 64 ]
+  Max grid dimensions:  [ 2147483647, 65535, 65535 ]
+
+Threads 32x32
+GPU time: 0.244836 s
+Threads 16x16
+GPU time: 0.153449 s
+Threads 8x8
+GPU time: 0.188252 s
+Threads 4x4
+GPU time: 0.354750 s
+Threads 2x2
+GPU time: 1.190649 s
+Threads 1x1
+GPU time: 8.257716 s
