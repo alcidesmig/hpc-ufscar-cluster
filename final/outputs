@@ -1,0 +1,222 @@
+CUDA Devices: 
+
+0: NVIDIA GeForce RTX 2060 SUPER: 7.5
+  Global memory:   7974mb
+  Shared memory:   48kb
+  Constant memory: 64kb
+  Block registers: 65536
+
+  Warp size:         32
+  Threads per block: 1024
+  Max block dimensions: [ 1024, 1024, 64 ]
+  Max grid dimensions:  [ 2147483647, 65535, 65535 ]
+
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Threads 32x32
+GPU time: 2.257591 s for 1024 threads
+Threads 16x16
+GPU time: 1.972585 s for 256 threads
+Threads 8x8
+GPU time: 1.950512 s for 64 threads
+Threads 4x4
+GPU time: 3.884336 s for 16 threads
+CUDA Devices: 
+
+0: NVIDIA GeForce RTX 2060 SUPER: 7.5
+  Global memory:   7974mb
+  Shared memory:   48kb
+  Constant memory: 64kb
+  Block registers: 65536
+
+  Warp size:         32
+  Threads per block: 1024
+  Max block dimensions: [ 1024, 1024, 64 ]
+  Max grid dimensions:  [ 2147483647, 65535, 65535 ]
+
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Threads 32x32
+GPU time: 8.736124 s for 1024 threads
+Threads 16x16
+GPU time: 8.265112 s for 256 threads
+Threads 8x8
+GPU time: 8.260404 s for 64 threads
+Threads 4x4
+GPU time: 16.539444 s for 16 threads
+CUDA Devices: 
+
+0: NVIDIA GeForce RTX 2060 SUPER: 7.5
+  Global memory:   7974mb
+  Shared memory:   48kb
+  Constant memory: 64kb
+  Block registers: 65536
+
+  Warp size:         32
+  Threads per block: 1024
+  Max block dimensions: [ 1024, 1024, 64 ]
+  Max grid dimensions:  [ 2147483647, 65535, 65535 ]
+
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Threads 32x32
+GPU time: 20.963224 s for 1024 threads
+Threads 16x16
+GPU time: 19.695953 s for 256 threads
+Threads 8x8
+GPU time: 19.643888 s for 64 threads
+Threads 4x4
+GPU time: 39.241222 s for 16 threads
+CUDA Devices: 
+
+0: NVIDIA GeForce RTX 2060 SUPER: 7.5
+  Global memory:   7974mb
+  Shared memory:   48kb
+  Constant memory: 64kb
+  Block registers: 65536
+
+  Warp size:         32
+  Threads per block: 1024
+  Max block dimensions: [ 1024, 1024, 64 ]
+  Max grid dimensions:  [ 2147483647, 65535, 65535 ]
+
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Threads 32x32
+GPU time: 63.366226 s for 1024 threads
+Threads 16x16
+GPU time: 59.625359 s for 256 threads
+Threads 8x8
+GPU time: 59.599545 s for 64 threads
+Threads 4x4
+GPU time: 119.144547 s for 16 threads
+CUDA Devices: 
+
+0: NVIDIA GeForce RTX 2060 SUPER: 7.5
+  Global memory:   7974mb
+  Shared memory:   48kb
+  Constant memory: 64kb
+  Block registers: 65536
+
+  Warp size:         32
+  Threads per block: 1024
+  Max block dimensions: [ 1024, 1024, 64 ]
+  Max grid dimensions:  [ 2147483647, 65535, 65535 ]
+
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Threads 32x32
+GPU time: 133.833450 s for 1024 threads
+Threads 16x16
+GPU time: 127.120758 s for 256 threads
+Threads 8x8
+GPU time: 127.528984 s for 64 threads
+Threads 4x4
+GPU time: 254.189865 s for 16 threads
+CUDA Devices: 
+
+0: NVIDIA GeForce RTX 2060 SUPER: 7.5
+  Global memory:   7974mb
+  Shared memory:   48kb
+  Constant memory: 64kb
+  Block registers: 65536
+
+  Warp size:         32
+  Threads per block: 1024
+  Max block dimensions: [ 1024, 1024, 64 ]
+  Max grid dimensions:  [ 2147483647, 65535, 65535 ]
+
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Threads 32x32
+GPU time: 299.893280 s for 1024 threads
+Threads 16x16
+GPU time: 286.473938 s for 256 threads
+Threads 8x8
+GPU time: 287.961884 s for 64 threads
+Threads 4x4
+GPU time: 572.580200 s for 16 threads
+Plot saved in plots/wavefield.png
+Grid Sizes: 1000 x 1000
+Iterations: 7071
+Initializing ... 
+Computing wavefield ... 
+Iterations completed in 67.498571 seconds 
+Plot saved in plots/wavefield.png
+Grid Sizes: 1000 x 1000
+Iterations: 7071
+Initializing ... 
+Computing wavefield ... 
+Iterations completed in 9.516518 seconds 
+Plot saved in plots/wavefield.png
+Grid Sizes: 2000 x 2000
+Iterations: 7071
+Initializing ... 
+Computing wavefield ... 
+Iterations completed in 266.003249 seconds 
+Plot saved in plots/wavefield.png
+Grid Sizes: 2000 x 2000
+Iterations: 7071
+Initializing ... 
+Computing wavefield ... 
+Iterations completed in 37.001199 seconds 
+Plot saved in plots/wavefield.png
+Grid Sizes: 3000 x 3000
+Iterations: 7071
+Initializing ... 
+Computing wavefield ... 
+Iterations completed in 595.961105 seconds 
+Plot saved in plots/wavefield.png
+Grid Sizes: 3000 x 3000
+Iterations: 7071
+Initializing ... 
+Computing wavefield ... 
+Iterations completed in 86.154369 seconds 
+Plot saved in plots/wavefield.png
+Grid Sizes: 5000 x 5000
+Iterations: 7071
+Initializing ... 
+Computing wavefield ... 
+Iterations completed in 1656.910336 seconds 
+Plot saved in plots/wavefield.png
+Grid Sizes: 5000 x 5000
+Iterations: 7071
+Initializing ... 
+Computing wavefield ... 
+Iterations completed in 235.584550 seconds 
+Plot saved in plots/wavefield.png
+Grid Sizes: 7000 x 7000
+Iterations: 7071
+Initializing ... 
+Computing wavefield ... 
+Iterations completed in 3246.091550 seconds 
+Plot saved in plots/wavefield.png
+Grid Sizes: 7000 x 7000
+Iterations: 7071
+Initializing ... 
+Computing wavefield ... 
+Iterations completed in 454.302739 seconds 
+Plot saved in plots/wavefield.png
+Grid Sizes: 10000 x 10000
+Iterations: 7071
+Initializing ... 
+Computing wavefield ... 
+Iterations completed in 6630.897635 seconds 
+Plot saved in plots/wavefield.png
+Grid Sizes: 10000 x 10000
+Iterations: 7071
+Initializing ... 
+Computing wavefield ... 
+Iterations completed in 917.015386 seconds 
