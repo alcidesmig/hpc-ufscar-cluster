@@ -1,0 +1,150 @@
+CUDA Devices: 
+
+0: NVIDIA GeForce RTX 2060 SUPER: 7.5
+  Global memory:   7974mb
+  Shared memory:   48kb
+  Constant memory: 64kb
+  Block registers: 65536
+
+  Warp size:         32
+  Threads per block: 1024
+  Max block dimensions: [ 1024, 1024, 64 ]
+  Max grid dimensions:  [ 2147483647, 65535, 65535 ]
+
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Threads 32x32
+GPU time: 1.197331 s for 1024 threads
+Threads 16x16
+GPU time: 0.775883 s for 256 threads
+Threads 8x8
+GPU time: 0.747516 s for 64 threads
+Threads 4x4
+GPU time: 1.120279 s for 16 threads
+CUDA Devices: 
+
+0: NVIDIA GeForce RTX 2060 SUPER: 7.5
+  Global memory:   7974mb
+  Shared memory:   48kb
+  Constant memory: 64kb
+  Block registers: 65536
+
+  Warp size:         32
+  Threads per block: 1024
+  Max block dimensions: [ 1024, 1024, 64 ]
+  Max grid dimensions:  [ 2147483647, 65535, 65535 ]
+
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Threads 32x32
+GPU time: 5.199718 s for 1024 threads
+Threads 16x16
+GPU time: 2.623596 s for 256 threads
+Threads 8x8
+GPU time: 2.622576 s for 64 threads
+Threads 4x4
+GPU time: 3.814041 s for 16 threads
+CUDA Devices: 
+
+0: NVIDIA GeForce RTX 2060 SUPER: 7.5
+  Global memory:   7974mb
+  Shared memory:   48kb
+  Constant memory: 64kb
+  Block registers: 65536
+
+  Warp size:         32
+  Threads per block: 1024
+  Max block dimensions: [ 1024, 1024, 64 ]
+  Max grid dimensions:  [ 2147483647, 65535, 65535 ]
+
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Threads 32x32
+GPU time: 9.634932 s for 1024 threads
+Threads 16x16
+GPU time: 6.157730 s for 256 threads
+Threads 8x8
+GPU time: 5.501941 s for 64 threads
+Threads 4x4
+GPU time: 9.846984 s for 16 threads
+CUDA Devices: 
+
+0: NVIDIA GeForce RTX 2060 SUPER: 7.5
+  Global memory:   7974mb
+  Shared memory:   48kb
+  Constant memory: 64kb
+  Block registers: 65536
+
+  Warp size:         32
+  Threads per block: 1024
+  Max block dimensions: [ 1024, 1024, 64 ]
+  Max grid dimensions:  [ 2147483647, 65535, 65535 ]
+
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Threads 32x32
+GPU time: 27.534464 s for 1024 threads
+Threads 16x16
+GPU time: 17.088608 s for 256 threads
+Threads 8x8
+GPU time: 15.327330 s for 64 threads
+Threads 4x4
+GPU time: 29.173773 s for 16 threads
+CUDA Devices: 
+
+0: NVIDIA GeForce RTX 2060 SUPER: 7.5
+  Global memory:   7974mb
+  Shared memory:   48kb
+  Constant memory: 64kb
+  Block registers: 65536
+
+  Warp size:         32
+  Threads per block: 1024
+  Max block dimensions: [ 1024, 1024, 64 ]
+  Max grid dimensions:  [ 2147483647, 65535, 65535 ]
+
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Threads 32x32
+GPU time: 54.045418 s for 1024 threads
+Threads 16x16
+GPU time: 33.787857 s for 256 threads
+Threads 8x8
+GPU time: 29.931700 s for 64 threads
+Threads 4x4
+GPU time: 56.816696 s for 16 threads
+CUDA Devices: 
+
+0: NVIDIA GeForce RTX 2060 SUPER: 7.5
+  Global memory:   7974mb
+  Shared memory:   48kb
+  Constant memory: 64kb
+  Block registers: 65536
+
+  Warp size:         32
+  Threads per block: 1024
+  Max block dimensions: [ 1024, 1024, 64 ]
+  Max grid dimensions:  [ 2147483647, 65535, 65535 ]
+
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Plot saved in plots/wavefield.png
+Threads 32x32
+GPU time: 131.155197 s for 1024 threads
+Threads 16x16
+GPU time: 72.337807 s for 256 threads
+Threads 8x8
+GPU time: 74.841148 s for 64 threads
+Threads 4x4
+GPU time: 137.953186 s for 16 threads
